@@ -152,6 +152,18 @@ track:Play()
 
 ---
 
+## 1.6 Project Đa Dạng - 5 Animations
+
+### Hệ thống 5 Emote (E, 1, 2, 3, 4)
+- [ ] Wave (E) - Vẫy tay chào
+- [ ] Dance (1) - Nhảy, looped
+- [ ] Point (2) - Chỉ tay về phía trước
+- [ ] Bow (3) - Cúi chào lịch sự
+- [ ] Cheer (4) - Cổ vũ, giơ tay lên
+- [ ] Quản lý 5 AnimationTrack trong 1 script
+
+---
+
 ## ✅ Checklist Level 1 Hoàn Thành
 - [ ] Tạo được animation trong Animation Editor
 - [ ] Publish animation lên Roblox
